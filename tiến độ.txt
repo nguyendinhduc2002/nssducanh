@@ -1,0 +1,12 @@
+tiến độ hoàn thành cnm:
+
+chức năng : 
+
+đăng nhập :ok
+đăng ký : ok
+TẠO MULTIPBLE MENU:
+Cài thư viện QRCODE: https://www.youtube.com/watch?v=laqQiL2v4NY
+quản lý bài đăng :	
+	+ thêm bài đăng
+	+ sửa bài đăng
+	+ xóa bài đăng
